@@ -1,1 +1,1 @@
-# https-modelcollapse.github.io-
+# modelcollapse.github.io
