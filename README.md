@@ -1,9 +1,9 @@
 # modelcollapse.github.io
 
-### p5.js experiments
+### Experiments / Works best on desktop.
 
 Made with [p5.js](https://p5js.org/).
-Works best on desktop.
+
 ---
 
 <table>
