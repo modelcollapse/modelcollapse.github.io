@@ -4,8 +4,7 @@
 
 <div style="font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:1.1; text-align:left;">
 
-Welcome to my gallery of creative coding projects made with [p5.js](https://p5js.org/).  
-Click any image or title to explore the interactive sketch.
+Made with [p5.js](https://p5js.org/).  
 
 </div>
 
@@ -73,7 +72,7 @@ Click any image or title to explore the interactive sketch.
       <br>
       <sub>
         <i>
-          A circle in motion leaves a mesmerizing trail, visualizing momentum and flow in a simple, elegant animation.
+         Visualizing momentum and flow in a simple animation.
         </i>
       </sub>
     </td>
@@ -85,7 +84,7 @@ Click any image or title to explore the interactive sketch.
       <br>
       <sub>
         <i>
-          Interactive sketch connecting dots in real time, forming geometric networks and organic patterns as you explore.
+          Interactive sketch connecting dots in real time, forming geometric networks and organic patterns.
         </i>
       </sub>
     </td>
