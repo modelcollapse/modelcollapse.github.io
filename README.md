@@ -2,7 +2,7 @@
 
 ### p5.js experiments
 
-<div style="font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:1.1; text-align:left;">
+<div style="font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:0.9; text-align:left;">
 
 Made with [p5.js](https://p5js.org/).  
 
@@ -12,7 +12,7 @@ Made with [p5.js](https://p5js.org/).
 
 <table width="100%">
   <tr>
-    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:1.1; text-align:left;">
+    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:0.9; text-align:left;">
       <a href="https://modelcollapse.github.io/March2004/">
         <img src="https://github.com/user-attachments/assets/480ddeff-c8fd-40fb-a22c-793c11ec0edf" alt="March2004" width="240"/><br>
         <b>March2004</b>
@@ -25,7 +25,7 @@ Made with [p5.js](https://p5js.org/).
         </i>
       </sub>
     </td>
-    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:1.1; text-align:left;">
+    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:0.9; text-align:left;">
       <a href="https://modelcollapse.github.io/CirclePatternSketch/">
         <img src="https://github.com/user-attachments/assets/c791b314-4b4b-4cb2-8c7c-25c0f66960bf" alt="Circle Pattern" width="240"/><br>
         <b>Circle Pattern</b>
@@ -38,7 +38,7 @@ Made with [p5.js](https://p5js.org/).
         </i>
       </sub>
     </td>
-    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:1.1; text-align:left;">
+    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:0.9; text-align:left;">
       <a href="https://modelcollapse.github.io/CircleLine/">
         <img src="https://github.com/user-attachments/assets/fdbd3c99-ce9e-420f-99f7-fd70c7f468a5" alt="Dotted Line" width="240"/><br>
         <b>Dotted Line</b>
@@ -52,7 +52,7 @@ Made with [p5.js](https://p5js.org/).
     </td>
   </tr>
   <tr>
-    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:1.1; text-align:left;">
+    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:0.9; text-align:left;">
       <a href="https://modelcollapse.github.io/imageslice/">
         <img src="https://github.com/user-attachments/assets/15071777-3457-4a06-88f8-8fcfe60b59bd" alt="Image Slice" width="240"/><br>
         <b>Image Slice</b>
@@ -64,7 +64,7 @@ Made with [p5.js](https://p5js.org/).
         </i>
       </sub>
     </td>
-    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:1.1; text-align:left;">
+    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:0.9; text-align:left;">
       <a href="https://modelcollapse.github.io/TrailingCircle/">
         <img src="https://github.com/user-attachments/assets/94b25f02-f0bf-47c9-ab55-6153cedc3fa6" alt="Trailing Circle" width="240"/><br>
         <b>Trailing Circle</b>
@@ -76,7 +76,7 @@ Made with [p5.js](https://p5js.org/).
         </i>
       </sub>
     </td>
-    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:1.1; text-align:left;">
+    <td width="33%" style="vertical-align:top; font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:0.9; text-align:left;">
       <a href="https://modelcollapse.github.io/dot-connect/">
         <img src="https://github.com/user-attachments/assets/67bcf98f-5dc1-4112-86b2-0e1a323dd473" alt="Dot Connect" width="240"/><br>
         <b>Dot Connect</b>
@@ -93,6 +93,6 @@ Made with [p5.js](https://p5js.org/).
 
 ---
 
-<div style="font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:1.1; text-align:left;">
+<div style="font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:0.9; text-align:left;">
 Enjoy exploring! Each sketch is open source and ready to inspire your own creative coding journey.
 </div>
