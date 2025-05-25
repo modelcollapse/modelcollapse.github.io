@@ -5,3 +5,4 @@
 - [CirclePatternSketch](https://modelcollapse.github.io/CirclePatternSketch/)
 - [DottedLine](https://modelcollapse.github.io/CircleLine/)
 - [ImageSlice](https://modelcollapse.github.io/imageslice/)
+- [TrailingCircle](https://modelcollapse.github.io/TrailingCircle/)
