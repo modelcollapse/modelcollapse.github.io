@@ -1,6 +1,5 @@
 # modelcollapse.github.io
-
-### Experiments / Works best on desktop.
+### Works best on desktop.
 
 Made with [p5.js](https://p5js.org/).
 
