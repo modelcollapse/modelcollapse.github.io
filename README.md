@@ -3,7 +3,7 @@
 ### p5.js experiments
 
 Made with [p5.js](https://p5js.org/).
-
+Works best on desktop.
 ---
 
 <table>
