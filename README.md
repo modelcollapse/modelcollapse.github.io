@@ -94,5 +94,5 @@ Made with [p5.js](https://p5js.org/).
 ---
 
 <div style="font-family: 'Fira Mono', 'Consolas', 'Liberation Mono', 'Menlo', monospace, sans-serif; line-height:0.9; text-align:left;">
-Enjoy exploring! Each sketch is open source and ready to inspire your own creative coding journey.
+
 </div>
