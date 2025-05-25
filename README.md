@@ -90,4 +90,3 @@ Made with [p5.js](https://p5js.org/).
 
 ---
 
-Enjoy exploring! Each sketch is open source and ready to inspire your own creative coding journey.
