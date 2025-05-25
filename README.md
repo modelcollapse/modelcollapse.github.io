@@ -60,7 +60,7 @@ Made with [p5.js](https://p5js.org/).
       <br>
       <sub>
         <i>
-          Deconstructs and reassembles images into animated slices, revealing hidden structures and playful distortions.
+          Deconstructs and reassembles images, revealing hidden structures and playful distortions.
         </i>
       </sub>
     </td>
@@ -72,7 +72,7 @@ Made with [p5.js](https://p5js.org/).
       <br>
       <sub>
         <i>
-         Visualizing momentum and flow in a simple animation.
+         Visualizing scaled relationships between circles and color.
         </i>
       </sub>
     </td>
