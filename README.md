@@ -5,11 +5,6 @@ Made with [p5.js](https://p5js.org/).
 
 ---
 
-<a href="https://modelcollapse.github.io/rectangle_generator/">
-  <img src="https://github.com/user-attachments/assets/d14d0ce7-acd9-4cfb-9eb1-cc20c908b2c0" width="100%">
-</a>
-**Rectangle Generator**  
-<sub><i>Overlays animated, non-overlapping gradient rectangles onto randomized background images with full control over shape, animation, and blending.</i></sub>
 
 ---
 
