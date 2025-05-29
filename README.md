@@ -71,12 +71,10 @@ Made with [p5.js](https://p5js.org/).
 
 ---
 
-[![Trailing Circle](https://github.com/user-attachments/assets/94b25f02-f0bf-47c9-ab55-6153cedc3fa6)](https://modelcollapse.github.io/TrailingCircle/)
-**Trailing Circle**  
-<sub><i>Visualizing scaled relationships between circles and color.</i></sub>
-
----
-
 [![Dot Connect](https://github.com/user-attachments/assets/67bcf98f-5dc1-4112-86b2-0e1a323dd473)](https://modelcollapse.github.io/dot-connect/)
 **Dot Connect**  
 <sub><i>Interactive sketch connecting dots in real time, forming geometric networks and organic patterns.</i></sub>
+
+
+---
+
